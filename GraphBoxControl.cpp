@@ -1,7 +1,3 @@
-//
-// Created by SPlaysYT on 20.05.2024.
-//
-
 #include "GraphBoxControl.h"
 
 #include "BasicFunctions.h"
