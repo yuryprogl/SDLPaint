@@ -1,7 +1,3 @@
-//
-// Created by SPlaysYT on 20.05.2024.
-//
-
 #ifndef CIRCLEPOINT_H
 #define CIRCLEPOINT_H
 
