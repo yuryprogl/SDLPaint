@@ -1,7 +1,3 @@
-//
-// Created by Vincent on 25.03.24.
-//
-
 #include "MainWindow.h"
 
 namespace UserEvents {
