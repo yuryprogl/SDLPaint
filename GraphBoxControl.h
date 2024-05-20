@@ -1,7 +1,3 @@
-//
-// Created by SPlaysYT on 20.05.2024.
-//
-
 #ifndef GRAPHBOXCONTROL_H
 #define GRAPHBOXCONTROL_H
 #pragma once
