@@ -1,7 +1,3 @@
-//
-// Created by Vincent on 25.03.24.
-//
-
 #ifndef SDLFORMS_TESTFORM1_H
 #define SDLFORMS_TESTFORM1_H
 
