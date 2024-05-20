@@ -1,7 +1,3 @@
-//
-// Created by SPlaysYT on 20.05.2024.
-//
-
 #ifndef BASICFUNCTIONS_H
 #define BASICFUNCTIONS_H
 
