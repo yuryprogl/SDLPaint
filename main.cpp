@@ -1,7 +1,6 @@
 #define SDL_MAIN_HANDLED
 
 #include <iostream>
-
 #include "MainWindow.h"
 
 int main()
